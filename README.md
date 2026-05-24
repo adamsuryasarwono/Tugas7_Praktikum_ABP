@@ -1,17 +1,8 @@
-# makanan_fav
+# Makanan Favorit
+Aplikasi Flutter sederhana bertema kuliner nusantara yang menampilkan beberapa makanan favorit seperti nasi goreng, sate, dan mie ayam. Aplikasi ini dibuat untuk memenuhi tugas dasar Flutter dengan fitur tampilan home, navigasi halaman, dan form sederhana.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fitur
+- Menampilkan daftar makanan beserta gambar dan deskripsi
+- Navigasi ke halaman detail makanan
+- Form komentar menggunakan TextField
+- Menampilkan Snackbar setelah tombol ditekan
